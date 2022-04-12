@@ -9,7 +9,7 @@ The script uses OpenCV methods :
 - cv2.GaussianBlur(): To blur the shape.
 
 
-
+This is the 3 stages of a frame : original->detected text with a box -> blurred text :
 ![example over a frame:](https://github.com/DataloopTraining/OCR-snippets/blob/main/textdetection/combine_images.jpg)
 
 
